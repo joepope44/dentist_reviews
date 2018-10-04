@@ -1,2 +1,3 @@
 # dentist_reviews
-web scrape a page with dentist reviews
+
+Practice project to scrape a web page with dentist reviews into a csv file. 
